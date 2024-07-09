@@ -1,4 +1,4 @@
-# Dahzito-Custom-Engines-Beta-v0.6-
+# Dahzito-Custom-Engines-v0.6-
 Basic mod that adds some engines to the SFS game.
 This mod adds for now 3 engines called **Odyssey Engine**, **Copernicus Engine** and the **Plato Engine**.
 
