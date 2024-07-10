@@ -1,43 +1,14 @@
 # Dahzito-Custom-Engines-v0.6-
-Basic mod that adds some engines to the SFS game.
-This mod adds for now 3 engines called **Odyssey Engine**, **Copernicus Engine** and the **Plato Engine**.
+Basic mod that adds for now 12 engines to the SFS game.
+This mod adds for now a decent variety of engines into the game that can offer an interesting alternative to the already well known Vanilla engines, this mod can include engines that can extend, from some simple engines for some missions were you would need another type of engine, to an entire version of an Dahzito version of the AEP mod made by Orion (also the suggestion of this was made by Orion) and some Soviet-tech rocket engines.
 
-**Relevant Informations:**
+Planned future releases & other small updates:
 
-**Odyssey Engine:**
+***0.6.1 | 0.6-bug_fix update:** small bug fixes to the engines
 
-It's a good engine to be used on light second stage rockets and when used on space when thrust isn't much of a problem. (a bit simillar to the Frontier Engine)
+  ***0.7 update:** complete version of the Dahzito version of the AEP mod
+  ***0.8 update:** going to implement some soviet inspired and some soviet engines recretions (one of them is going to be an suggestion made here)
+  ***0.9 update:** still don't know well yet, might going to include some rocket engines inspired on American rocket engines | Open for suggestions for this and for the 1.0 update
 
-
-**Mass**: 5 Tons
-
-**Thrust**: 70 Tons
-
-**Efficiency**: 300 Isp 
-![20240316143858_1](https://github.com/Dahzito/Dahzito-Custom-Engines-Beta-v0.1-/assets/162038984/47f1c4ca-9803-4d90-87aa-2449fa3a0ee8)
-
-**Copernicus Engine:**
-
-Engine that can be used as a first stage engine for some rockets.
-
-
-**Mass**: 8 Tons
-
-**Thrust**: 130 Tons
-
-**Efficiency**: 230 Isp 
-![20240316164335_1](https://github.com/Dahzito/Dahzito-Custom-Engines-Beta-v0.1-/assets/162038984/e1d7ebeb-cbf3-43a1-a271-0cd57b785ae7)
-
-**Plato Engine:**
-
-An engine that can be used on some landers and small service modules, like the apollo service module, or as an engine for simple and small space stations.
-
-
-**Mass**: 7 Tons
-
-**Thrust**: 70 Tons
-
-**Efficiency**: 230 Isp 
-![20240316163547_1](https://github.com/Dahzito/Dahzito-Custom-Engines-Beta-v0.1-/assets/162038984/a4c3f174-757c-4ccc-ab0e-35c4db5c32ca)
-
-Forum page with future releases and "updates": https://jmnet.one/sfs/forum/index.php?threads/dahzito-custom-engines-beta-v0-1.13687/
+SFS Forum page with future releases and all of the updates about this mod: 
+https://jmnet.one/sfs/forum/index.php?threads/dahzito-custom-engines-beta-v0-1.13687/
